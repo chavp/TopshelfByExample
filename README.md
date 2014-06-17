@@ -5,7 +5,7 @@ Create Windows Service
 
 Setup & Action
 
-1. create console application project TopshelfByExample
+1. create new console application project TopshelfByExample
 2. goto Package Manager Console for install-package Topshelf
 3. add class TownCrier and coding same same https://github.com/chavp/TopshelfByExample/blob/master/TopshelfByExample/TownCrier.cs
 4. build, run & fun with console TownCrier application
